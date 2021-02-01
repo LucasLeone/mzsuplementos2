@@ -88,12 +88,28 @@ nav ul li {
     width: 100px !important;
 }
 
+.bbq {
+    width: 100px !important;
+}
+
 .cont-item-text {
     align-self: center;
 }
 
 .cont-item-text p {
     font-size: 14px;
+}
+
+footer {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+.footer-cont p {
+    font-size: 12px;
 }
 
 @media screen and (max-width: 920px) {
